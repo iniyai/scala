@@ -5,6 +5,8 @@ def fact(num: Int):Int = {
   }
 }
 
+//demo git
+
 def findk (xs:List[Int],k:Int):Int = {
   k match {
     case 0 => xs.head
